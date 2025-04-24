@@ -1,0 +1,8 @@
+github.com/davesavic/clink v1.0.2 h1:zpbyoWtx9ztI6nO4wHS72Du6aS3xvtFvdhwn8KOeyh8=
+github.com/davesavic/clink v1.0.2/go.mod h1:t/riPX5tWlWKYcP7lvUpfsxFqC6WNnOOO+xvgei+uhg=
+github.com/t94j0/array v0.0.0-20180426153242-68930562a6bd h1:RXtQ+gpgNU68cTZDcDTiP3OvInFVPVV1H/KJDd4B6VE=
+github.com/t94j0/array v0.0.0-20180426153242-68930562a6bd/go.mod h1:SApqaBuVRHQRjvoIbN++3aFXJjnWr0UkZM72QpvdFZA=
+github.com/t94j0/nmap v0.0.0-20211119144019-7081d966c08f h1:nZCjl/w+r8FlYKeYvpSwwiYm1AobXo8Z4kkm/52OPPM=
+github.com/t94j0/nmap v0.0.0-20211119144019-7081d966c08f/go.mod h1:uvnhEocYdW+9qft6/vdJ9O1HK0h63UfoHsMgCkFFvLs=
+golang.org/x/time v0.6.0 h1:eTDhh4ZXt5Qf0augr54TN6suAUudPcawVZeIAPU7D4U=
+golang.org/x/time v0.6.0/go.mod h1:3BpzKBy/shNhVucY/MWOyx10tF3SFh9QdLuxbVysPQM=
