@@ -1,0 +1,41 @@
+{
+	"name": "go-nmap-scanner",
+	"actorSpecification": 1,
+	"version": "0.0",
+	"buildTag": "latest",
+	"environmentVariables": {},
+	"storages": {
+		"dataset": {
+			"actorSpecification": 1,
+			"views": {
+				"overview": {
+					"title": "Overview",
+					"transformation": {
+						"fields": [
+							"host",
+							"tcp",
+							"udp"
+						]
+					},
+					"display": {
+						"component": "table",
+						"properties": {
+							"host": {
+								"label": "Host",
+								"format": "text"
+							},
+							"tcp": {
+								"label": "TCP Ports",
+								"format": "Object"
+							},
+							"udp": {
+								"label": "UDP Ports",
+								"format": "Object"
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
